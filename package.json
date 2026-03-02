@@ -1,6 +1,7 @@
 {
       "name": "Smart Greenhouse App UI",
       "version": "0.1.0",
+      "homepage": "https://adrish20.github.io/smart_greenhouse_app",
       "private": true,
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
