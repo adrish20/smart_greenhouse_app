@@ -31,6 +31,7 @@ jobs:
 
       - run: npm install
       - run: npm run build
+      - run: ls -la
 
       - uses: actions/configure-pages@v4
 
